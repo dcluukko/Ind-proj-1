@@ -9,6 +9,9 @@ body {
     color: inherit;
     background-color: rgb(212, 175, 255);
 }
+.middle {
+  float: unset;
+}
 
 .well {
     min-height: 20px;
@@ -31,6 +34,11 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+.border-green {
+  border: 2px solid rgb(44, 75, 44);
+  Padding: 30px;
+  margin: 12px;
 }
 
 .italic {
