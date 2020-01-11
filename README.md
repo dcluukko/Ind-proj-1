@@ -2,7 +2,7 @@
 
 #### _Independent Project for Epicodus, January 10 2020_
 
-#### By _**{List of contributors}**_
+#### By _**Dana Luukko**_
 
 ## Description
 
