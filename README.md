@@ -15,6 +15,10 @@ Cascading, The Box Model, and Floats
 
 * Cloan from Git repository: https://github.com/dcluukko/ind-proj-1.git
 * Run code . to VS Code
+* Open the HTML page by typing "open index.html"
+# OR
+* Enter : https://dcluukko.github.io/ind-proj-1/ into your web browser
+* Scroll through page to read About Me, Background, Interests, and a list of my Github Projects.
 
 ## Support and contact details
 
